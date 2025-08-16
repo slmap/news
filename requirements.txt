@@ -1,0 +1,7 @@
+streamlit
+feedparser
+pandas
+requests
+praw
+tweepy
+python-dateutil
